@@ -1,0 +1,16 @@
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\SimpleMath.Tests.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\SimpleMath.Tests.pdb
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\SimpleMath.Core.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\SimpleMath.Core.pdb
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\obj\Debug\SimpleMath.MsTests.csprojAssemblyReference.cache
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\obj\Debug\SimpleMath.MsTests.csproj.CoreCompileInputs.cache
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\obj\Debug\SimpleMath.MsTests.csproj.CopyComplete
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\obj\Debug\SimpleMath.Tests.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Tests\obj\Debug\SimpleMath.Tests.pdb

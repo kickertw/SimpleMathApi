@@ -1,0 +1,6 @@
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Core\bin\Debug\SimpleMath.Core.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Core\bin\Debug\SimpleMath.Core.pdb
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Core\obj\Debug\SimpleMath.Core.csprojAssemblyReference.cache
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Core\obj\Debug\SimpleMath.Core.csproj.CoreCompileInputs.cache
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Core\obj\Debug\SimpleMath.Core.dll
+C:\Users\twong\source\repos\SimpleMathApi\SimpleMath.Core\obj\Debug\SimpleMath.Core.pdb
